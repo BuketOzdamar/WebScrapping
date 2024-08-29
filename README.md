@@ -27,6 +27,7 @@ The script collects data about each reserve and stores it in JSON format.
    pip install selenium
 
 #TÜRKÇE
+
 Bu proje, [Scottish Wildlife Trust](https://scottishwildlifetrust.org.uk/things-to-do/visit-our-reserves-and-visitor-centres/?_gl=1*hsh48n*_up*MQ..*_ga*MTI0OTE2MjgwNS4xNzIwNTI3NTYw*_ga_5BH0XSGV9M*MTcyMDUyNzU2MC4xLjAuMTcyMDUyNzU2MC4wLjAuMA) 
 web sitesindeki tüm rezervlerin verilerini toplamak için Selenium kullanılarak yapılmış bir Python betiğidir. Proje, her bir rezervin istenen bilgilerini JSON formatında toplar ve saklar.
 
